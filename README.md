@@ -8,5 +8,5 @@
 #   (use "git push" to publish your local commits)
 #
 # Changes to be committed:
-#	modified:   home.html
+	modified:   home.html
 #
